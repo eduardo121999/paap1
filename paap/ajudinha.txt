@@ -1,0 +1,35 @@
+<br>
+ <br>
+ <br>
+ <br>
+ <br>
+  <table class="table">
+    <thead>
+      <tr>
+        <th style="color:white;">Firstname</th>
+        <th style="color:white;">Lastname</th>
+        <th style="color:white;">Email</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="color:white;">John</td>
+        <td style="color:white;">Doe</td>
+        <td style="color:white;">john@example.com</td>
+      </tr>
+      <tr>
+        <td style="color:white;">Mary</td>
+        <td style="color:white;">Moe</td>
+        <td style="color:white;">mary@example.com</td>
+      </tr>
+      <tr>
+        <td style="color:white;">July</td>
+        <td style="color:white;">Dooley</td>
+        <td style="color:white;">july@example.com</td>
+      </tr>
+    </tbody>
+  </table>
+  <img src="capturar.png" class="img-rounded" alt="Cinque Terre" align="right">
+</div>
+
+                
